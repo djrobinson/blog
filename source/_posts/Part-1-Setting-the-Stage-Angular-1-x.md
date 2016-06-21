@@ -1,6 +1,6 @@
 ---
 title: 'Part 1: Setting the Stage - Angular 1.x'
-date: 2016-05-19 11:29:43
+date: 2016-05-15 11:29:43
 tags:
 ---
 

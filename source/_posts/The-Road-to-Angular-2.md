@@ -1,6 +1,6 @@
 ---
 title: The Road to Angular 2
-date: 2016-05-19 11:28:56
+date: 2016-05-12 11:28:56
 tags:
 ---
 
